@@ -1,0 +1,30 @@
+{
+  "name": "top-resturant",
+  "version": "1.0.0",
+  "description": "<!DOCTYPE html> <html lang=\"en\"> <head>     <meta charset=\"UTF-8\">     <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">     <title>restaurant</title> </head> <body>     <div id=\"content\">         <div class=\"header\">             <h3 class=\"title\">EatMore</h3>             <button class=\"h\">Home</button>             <button class=\"h\">Menu</button>             <button class=\"h\">Contacts</button>         </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chileshe355/TOP-resturant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chileshe355/TOP-resturant/issues"
+  },
+  "homepage": "https://github.com/Chileshe355/TOP-resturant#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
